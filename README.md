@@ -102,24 +102,24 @@ We are committed to sustainability by operating on the BNB Smart Chain, which us
 ## 6. Roadmap
 
 ### Phase 1: Launch & Foundation (Q3 2025)
-- [x] **Token Development:** Deploy verified smart contract on BSC.
-- [x] **Website Launch:** Release professional platform detailing tokenomics.
-- [x] **Community:** Launch Telegram and social channels.
-- [ ] **Initial Marketing:** Host AMA sessions to foster community interaction.
+- **Token Development:** Deploy verified smart contract on BSC.
+- **Website Launch:** Release professional platform detailing tokenomics.
+- **Community:** Launch Telegram and social channels.
+- **Initial Marketing:** Host AMA sessions to foster community interaction.
 
 ### Phase 2: Listings & Presence (Q4 2025 - Q1 2026)
-- [ ] **Listings:** Apply for CoinMarketCap and CoinGecko tracking.
-- [ ] **Exchange Support:** Pursue listings on Decentralized Exchanges (DEXs) like PancakeSwap.
-- [ ] **Wallet Integration:** Ensure native logo and price recognition in Trust Wallet and MetaMask.
+- **Listings:** Apply for CoinMarketCap and CoinGecko tracking.
+- **Exchange Support:** Pursue listings on Decentralized Exchanges (DEXs) like PancakeSwap.
+- **Wallet Integration:** Ensure native logo and price recognition in Trust Wallet and MetaMask.
 
 ### Phase 3: Expansion (Q2 - Q3 2026)
-- [ ] **Feedback Loop:** Gather user feedback to improve usability.
-- [ ] **Cross-Chain:** Explore bridges to Ethereum and Polygon.
-- [ ] **Strategic Partnerships:** Collaborate with DeFi projects to increase USDT• utility.
+- **Feedback Loop:** Gather user feedback to improve usability.
+- **Cross-Chain:** Explore bridges to Ethereum and Polygon.
+- **Strategic Partnerships:** Collaborate with DeFi projects to increase USDT• utility.
 
 ### Phase 4: Maturity (2027+)
-- [ ] **Global Adoption:** Expand marketing for institutional onboarding.
-- [ ] **Real-World Integration:** Payment gateway integrations for e-commerce.
+- **Global Adoption:** Expand marketing for institutional onboarding.
+- **Real-World Integration:** Payment gateway integrations for e-commerce.
 
 ---
 
