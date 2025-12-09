@@ -1,4 +1,4 @@
-# Whitepaper: Tethar USDT• (USDT Dot)
+# Whitepaper: (USDT Dot)
 
 **Version 1.0** | **BEP-20 Stable Asset on BNB Smart Chain**
 
@@ -20,7 +20,7 @@
 
 ## Abstract
 
-**(USDT Dot)** is a stablecoin designed to maintain a stable value at parity with the US dollar (USD). Deployed on the BNB Smart Chain (BSC) as a BEP-20 token, USDT• combines the stability of reserve-backed assets with the efficiency of blockchain technology.
+**Tethar USDT• (USDT Dot)** is a stablecoin designed to maintain a stable value at parity with the US dollar (USD). Deployed on the BNB Smart Chain (BSC) as a BEP-20 token, USDT• combines the stability of reserve-backed assets with the efficiency of blockchain technology.
 
 This whitepaper outlines the vision, mechanics, tokenomics, and roadmap for USDT•, emphasizing its role in providing a reliable digital dollar alternative for payments, DeFi integrations, and cross-border remittances.
 
