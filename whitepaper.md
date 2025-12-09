@@ -138,9 +138,10 @@ We are committed to sustainability by operating on the BNB Smart Chain, which us
 
 ## 8. Quick Links & Contact
 
-* **Website:** [https://usdt-dot.fluxionx.com](https://usdt-dot.fluxionx.com)
-* **Telegram:** [Join Our Community](https://t.me/Tethar_USDT_Dot)
-* **Explorer:** [BscScan Contract Link](https://bscscan.com/token/0x73dAD96ae4B1572a5C7c4a0616a5bDc07295B129)
+* **Website:** <a href="https://usdt-dot.fluxionx.com" target="_blank">https://usdt-dot.fluxionx.com</a>
+* **Telegram:** <a href="https://t.me/Tethar_USDT_Dot" target="_blank">Join Our Community</a>
+* **X (Twitter):** <a href="https://x.com/Tethar_USDT_Dot" target="_blank">https://x.com/Tethar_USDT_Dot</a>
+* **Explorer:** <a href="https://bscscan.com/token/0x73dAD96ae4B1572a5C7c4a0616a5bDc07295B129" target="_blank">BscScan Contract Link</a>
 * **Email:** hello@fluxionx.com
 
 ---
